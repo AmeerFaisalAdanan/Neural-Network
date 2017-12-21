@@ -1,0 +1,94 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "conditions": 1
+  }
+	}
+  ,	"current_observation": {
+		"image": {
+		"url":"http://icons.wxug.com/graphics/wu2/logo_130x80.png",
+		"title":"Weather Underground",
+		"link":"http://www.wunderground.com"
+		},
+		"display_location": {
+		"full":"Klang, Malaysia",
+		"city":"Klang",
+		"state":"10",
+		"state_name":"Malaysia",
+		"country":"MS",
+		"country_iso3166":"MY",
+		"zip":"00000",
+		"magic":"137",
+		"wmo":"48647",
+		"latitude":"3.03999996",
+		"longitude":"101.44999695",
+		"elevation":"4.9"
+		},
+		"observation_location": {
+		"full":"Klang, Klang, SELANGOR",
+		"city":"Klang, Klang",
+		"state":"SELANGOR",
+		"country":"MY",
+		"country_iso3166":"MY",
+		"latitude":"3.053294",
+		"longitude":"101.452904",
+		"elevation":"20 ft"
+		},
+		"estimated": {
+		},
+		"station_id":"ISELANGO11",
+		"observation_time":"Last Updated on December 16, 4:34 PM +08",
+		"observation_time_rfc822":"Sat, 16 Dec 2017 16:34:53 +0800",
+		"observation_epoch":"1513413293",
+		"local_time_rfc822":"Sat, 16 Dec 2017 16:34:57 +0800",
+		"local_epoch":"1513413297",
+		"local_tz_short":"+08",
+		"local_tz_long":"Asia/Kuala_Lumpur",
+		"local_tz_offset":"+0800",
+		"weather":"Mostly Cloudy",
+		"temperature_string":"80.2 F (26.8 C)",
+		"temp_f":80.2,
+		"temp_c":26.8,
+		"relative_humidity":"82%",
+		"wind_string":"Calm",
+		"wind_dir":"SW",
+		"wind_degrees":233,
+		"wind_mph":0.0,
+		"wind_gust_mph":0,
+		"wind_kph":0,
+		"wind_gust_kph":0,
+		"pressure_mb":"1008",
+		"pressure_in":"29.77",
+		"pressure_trend":"-",
+		"dewpoint_string":"74 F (24 C)",
+		"dewpoint_f":74,
+		"dewpoint_c":24,
+		"heat_index_string":"85 F (29 C)",
+		"heat_index_f":85,
+		"heat_index_c":29,
+		"windchill_string":"NA",
+		"windchill_f":"NA",
+		"windchill_c":"NA",
+		"feelslike_string":"85 F (29 C)",
+		"feelslike_f":"85",
+		"feelslike_c":"29",
+		"visibility_mi":"4.3",
+		"visibility_km":"7.0",
+		"solarradiation":"79",
+		"UV":"1.0","precip_1hr_string":"0.00 in ( 0 mm)",
+		"precip_1hr_in":"0.00",
+		"precip_1hr_metric":" 0",
+		"precip_today_string":"0.44 in (11 mm)",
+		"precip_today_in":"0.44",
+		"precip_today_metric":"11",
+		"icon":"mostlycloudy",
+		"icon_url":"http://icons.wxug.com/i/c/k/mostlycloudy.gif",
+		"forecast_url":"http://www.wunderground.com/global/stations/48647.html",
+		"history_url":"http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=ISELANGO11",
+		"ob_url":"http://www.wunderground.com/cgi-bin/findweather/getForecast?query=3.053294,101.452904",
+		"nowcast":""
+	}
+}
